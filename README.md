@@ -1,3 +1,5 @@
+**This repository has been replaced by https://github.com/TheGiraffe3/rumskib**
+
 # ES-Cutlass
 
 Adds the Cutlass, which is a heavily modified Gunboat used in small quantities by northern pirates.
